@@ -7,13 +7,10 @@
     "root": "src/content/posts"
   },
   "code": {
-    "root": "src"
+    "root": "src/layouts"
   },
   "themeConfig": [
-    "src/content/config.ts",
-    "astro.config.mjs",
-    "public/browserconfig.xml",
-    ".sitepins/config.json"
+    "src/data"
   ],
   "arrangement": [],
   "showCommitModal": true
